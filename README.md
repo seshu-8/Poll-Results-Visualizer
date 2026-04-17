@@ -146,7 +146,7 @@ Opens a web app at `http://localhost:8501`
 
 ## 👤 Author
 
-**Seshu** | Student | Andhra Pradesh, India
+**KONIJETI VENKATA SESHU BABU** | UG STUDENT | Andhra Pradesh, India
 GitHub: https://github.com/seshu-8/Poll-Results-Visualizer/tree/main
 
 ---
